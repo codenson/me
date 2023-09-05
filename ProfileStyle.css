@@ -9,7 +9,7 @@ body {
   font-family: Arial, sans-serif;
   /*background-color: #f4f4f4;*/
   background-color:black; 
-  color: #333;
+  color:white;
   margin: 20px;
 }
 
@@ -53,6 +53,23 @@ h1, h2, h3 {
 .paragraph{
   color: aliceblue;
 }
+#para{
+  position: relative;
+  top: -10px;
+  left: 160px;
+}
+#desCont{
+  position: relative;
+  top: 0px;
+  left: 160px;
+
+
+}
+.allignmentColons{
+  display: inline-block;
+  width: 150px;
+}
+
 
 /* Footer styles */
 footer {
