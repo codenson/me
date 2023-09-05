@@ -32,6 +32,7 @@ h1, h2, h3 {
   padding: 20px;
   text-align: center;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border: 3px solid olive;
   
 }
 
@@ -49,6 +50,7 @@ h1, h2, h3 {
   background-color: black;
   padding: 20px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border: 3px solid olive;
 }
 .paragraph{
   color: aliceblue;
